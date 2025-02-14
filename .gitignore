@@ -37,4 +37,5 @@ pypoetry
 staticcheck
 uv
 warp
-nvim/*.json
+nvim/lazy-lock.json
+nvim/lazyvim.json
