@@ -17,7 +17,8 @@ KeePass
 npm*
 NVIDIA
 nView*
-nvim*
+nvim-data*
+nvim.bak
 oh-my-posh
 ollama
 Package*
@@ -39,3 +40,6 @@ uv
 warp
 nvim/lazy-lock.json
 nvim/lazyvim.json
+lazygit
+History
+Temp*
